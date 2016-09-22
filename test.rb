@@ -1,0 +1,1 @@
+puts 'Hello Stas Lakhovytch'
